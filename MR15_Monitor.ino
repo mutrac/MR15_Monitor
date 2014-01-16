@@ -1,7 +1,9 @@
 /*
   MONITOR
-  subsystem for MR15
+  Florian and Paco's project.
+  Subsystem for MR15
   Reads sensors and relays output over serial to Pi
+  
 */
 
 /* --- Libraries --- */
